@@ -9,7 +9,7 @@ public class MySQLService {
 
     private final String url = "jdbc:mysql://localhost:3306/demo";
     private final String user = "root";
-    private final String password = "Brtn..74";
+    private final String password = "sifre";
 
     /**
      * Verilen SQL sorgusunu çalıştırır ve sonucu List<Map> olarak döner
